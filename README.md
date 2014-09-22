@@ -57,3 +57,10 @@ Vagrant requires more time setting up on Windows machines, and in a training roo
 
 __Hasn't this been done already?__
 There are projects such as QuickStart and DrupalPro which do very similar things. We wanted something with less installed by default and that had all the latest updates applied, for speed on lower end machines and to keep things simpler for training.
+
+__Where's the VM image?__
+We currently don't have hosting for the VM image, but we would like hosting! So if you know anywhere we can host the image, or would like to offer to. Please get in contact with [http://twitter.com/hedley_smith](@hedley_smith)!
+
+## TODO
+
+* Provide a shell script to install Ruby, RVM, Bundler, Sass, Compass, NodeJS, Yeoman / Grunt for frontend devs.
