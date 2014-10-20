@@ -4,7 +4,7 @@
 
 1. Install VirtualBox 4.3.16+
 2. Download .oma file and go to 'File -> Import appliance'
-3. The default drupal site is available at http://drupal.local and installed at /home/opendrupal/sites/drupal1
+3. The default drupal site is available at http://drupal.local and installed in the folder: __/home/opendrupal/sites/drupal1__
 
 ## Description
 
@@ -30,7 +30,9 @@ It comes with the following:
 ## Passwords
 
 __Ubuntu__
+
 username: opendrupal
+
 password: opendrupal
 
 __MySQL__
@@ -63,4 +65,6 @@ We currently don't have hosting for the VM image, but we would like hosting! So 
 
 ## TODO
 
+* Add Drupal support to Sublime Text 2 (e.g Syntax highlighting)
+* Provide a shell script to install a debugger. Either XDebug with NetBeans, Eclipse or Sublime Text 2.
 * Provide a shell script to install Ruby, RVM, Bundler, Sass, Compass, NodeJS, Yeoman / Grunt for frontend devs.
